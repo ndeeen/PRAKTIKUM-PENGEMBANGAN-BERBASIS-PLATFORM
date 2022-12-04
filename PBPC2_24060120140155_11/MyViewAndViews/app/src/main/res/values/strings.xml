@@ -1,0 +1,18 @@
+<resources>
+<string name="app_name">MyViewAndViews</string>
+<string name="content_text">Apple today announced a new generation of iPhone: iPhone 8 and iPhone 8 Plus. The new iPhone features a new glass and aluminum design in three beautiful colors made out of the most durable glass ever in a smartphone, Retina HD displays and A11 Bionic chip, and is designed for the ultimate augmented reality experience. The world’s most popular camera gets even better with single and dual cameras featuring Portrait Lighting on iPhone 8 Plus, and wireless charging brings a powerful new capability to iPhone.</string>
+<string name="content_specs_display">-Retina HD display\n-5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology\n-1920-by-1080-pixel resolution at 401 ppi\n-1300:1 contrast ratio (typical)\n-True Tone display\n-Wide color display (P3)\n-3D Touch\n-625 nits max brightness (typical)\n-Dual-domain pixels for wide viewing angles\n-Fingerprint-resistant oleophobic coating\n-Support for display of multiple languages and characters simultaneously\n-Display Zoom\n-Reachability</string>
+<string name="content_specs_size">-Height: 6.24 inches (158.4 mm)\n-Width: 3.07 inches (78.1 mm)\n-Depth: 0.30 inch (7.5 mm)\n-Weight: 7.13 ounces (202 grams)</string>
+<string name="content_specs_battery">-Talk time (wireless): Up to 21 hours\n-Internet use: Up to 13 hours\n-Video playback (wireless): Up to 14 hours\n-Audio playback (wireless): Up to 60 hours\n-Fast-charge capable: Up to 50% charge in 30 minutes with 18W adapter or higher (sold separately)\n -Built-in rechargeable lithium-ion battery\n-Wireless charging (works with Qi chargers10)\n-Charging via USB to computer system or power adapter</string>
+<string name="stock">Stock only 7 pieces</string>
+<string name="specification">Spesification</string>
+<string name="display">Display</string>
+<string name="size">Size</string>
+<string name="battery">Battery</string>
+<string name="seller">Sold by</string>
+<string name="my_name">Ratih Adiningrum</string>
+<string name="buy">Buy</string>
+<string name="dummy_value">$965</string>
+<string name="dummy_photos">5 photos</string>
+<string name="dial_number">Contact CS</string>
+</resources>
